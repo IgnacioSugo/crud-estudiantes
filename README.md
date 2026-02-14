@@ -13,7 +13,7 @@ Además se utilizaron mecanismos de paginación y ordenamiento, manejo global de
 
 - Java 17
 - Spring Boot 4.0.2
-- Maven 4.0.0
+- Maven
 - PostgreSQL
 - Hibernate / JPA
 - Lombok
